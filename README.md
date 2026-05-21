@@ -65,3 +65,6 @@ I hope it works somewhere other than at my place and hope you guys find it usefu
    http://127.0.0.1:5000
 
    Leave the Command Prompt window open while using the dashboard.
+
+"Once the dashboard is visible in your Browser, go to the Configuration Panel near the top, enter your router's IP Its Username and Password, and hit Save."
+ Good Luck.  
