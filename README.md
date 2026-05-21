@@ -30,3 +30,38 @@ I am releasing this source code "as-is".
 This is a final code drop.
 I will not be providing technical support, maintenance, or responses to Issues/Pull Requests.
 I hope it works somewhere other than at my place and hope you guys find it useful.
+
+## Installation (Windows)
+
+1. Install Python 3.12 from:
+   https://www.python.org/downloads/windows/
+
+   During installation:
+   - Tick "Add Python to PATH"
+   - Tick "Install for all users"
+   - Finish the installer
+
+2. Open Command Prompt:
+   Press Win + R → type: cmd → press ENTER
+
+3. Install the required Python packages:
+   pip install flask requests
+
+4. Go to the folder where the script is stored:
+   cd C:\path\to\ZTE-MC888-B09-TALKY-TALKY
+
+   (Replace the path above with the actual folder location)
+
+5. Start the server by running:
+   python mc888_router_server_v3_public.py
+
+   You must run this command from the same folder as the file.
+
+   When it starts successfully, you will see:
+   * Running on http://127.0.0.1:5000
+   * Press CTRL+C to quit
+
+6. Open your browser and go to:
+   http://127.0.0.1:5000
+
+   Leave the Command Prompt window open while using the dashboard.
