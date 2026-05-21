@@ -4,7 +4,7 @@
 ZTE MC888 B09+ Telemetry & Authentication UtilityProject Status: UNMAINTAINED / ARCHIVAL DROP 
 Author: Chris Veteran Firmware Developer (40+ Years) 
 
-This repo contains a standalone Python utility developed to interface with the ZTE MC888 series running B09 firmware revision (my router happens to be a B09). It was created to solve the specific problem where after a nightly N78 shutdown on a EE mast I needed a way to kick it back up to N78 without rebooting it (becuase hat upsets my LAN which upsets my Windows 11 IOT server). 
+This repo contains a standalone Python utility developed to interface with the ZTE MC888 series running B09 firmware revision (my router happens to be a B09). It was created to solve the specific problem where after a nightly N78 shutdown on a EE mast I needed a way to kick it back up to N78 without rebooting it (becuase that upsets my LAN which upsets my Windows 11 IOT server). 
 
 Key Technical Implementations:
 
