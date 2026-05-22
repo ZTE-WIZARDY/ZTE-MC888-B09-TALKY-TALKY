@@ -68,3 +68,8 @@ I hope it works somewhere other than at my place and hope you guys find it usefu
 
 "Once the dashboard is visible in your Browser, go to the Configuration Panel near the top, enter your router's IP Its Username and Password, and hit Save."
  Good Luck.  
+
+ 
+<img width="423" height="1302" alt="image" src="https://github.com/user-attachments/assets/1264fe3d-bab9-4a93-a6aa-40c649a9d732" />
+
+ 
