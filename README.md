@@ -72,4 +72,8 @@ I hope it works somewhere other than at my place and hope you guys find it usefu
  
 <img width="423" height="1302" alt="image" src="https://github.com/user-attachments/assets/1264fe3d-bab9-4a93-a6aa-40c649a9d732" />
 
- 
+Liability DisclaimerUSE AT YOUR OWN RISK. 
+This utility interacts with router firmware at a low level. 
+While it works for my setup, I am not responsible for bricked hardware, voided warranties, or ISP service interruptions.
+By running this script, you accept all responsibility for your own equipment. 
+If you aren't comfortable with that, don't run the code.
