@@ -1,7 +1,7 @@
-<img align="right" width="423" height="1302" alt="image" src="https://github.com/user-attachments/assets/2a38739e-3be5-4ab9-b918-4438959de48b"/>
-
 # ZTE-MC888-B09-TALKY-TALKY
 "Set-Cmd Endpoints" or "GoForm APIs" and Hashing for the ZTE MC888 B09 Router
+
+<img align="right" width="423" height="1302" alt="image" src="https://github.com/user-attachments/assets/2a38739e-3be5-4ab9-b918-4438959de48b"/>
 
 ZTE MC888 B09+ Telemetry & Authentication Utility
 
