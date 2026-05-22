@@ -1,7 +1,7 @@
 # ZTE-MC888-B09-TALKY-TALKY
 "Set-Cmd Endpoints" or "GoForm APIs" and Hashing for the ZTE MC888 B09 Router
 
-<img align="right" width="423" height="1302" alt="image" src="https://github.com/user-attachments/assets/2a38739e-3be5-4ab9-b918-4438959de48b"/>
+<img align="right" width="425" height="1302" alt="image" src="https://github.com/user-attachments/assets/8a80a46e-0ba3-4c1a-9687-e4a0ed9f25a9"/>
 
 ZTE MC888 B09+ Telemetry & Authentication Utility
 
@@ -69,14 +69,14 @@ I hope it works somewhere other than at my place and hope you guys find it usefu
    Leave the Command Prompt window open while using the dashboard.
 
 "Once the dashboard is visible in your Browser, go to the Configuration Panel near the top, enter your router's IP Its Username and Password, and hit Save."
- Good Luck.  
+Good Luck. (Tall and thin for your phone!)  
 
 Liability Disclaimer:
 USE AT YOUR OWN RISK. 
 This utility interacts with router firmware at a low level. 
 While it works for my setup, I am not responsible for bricked hardware, voided warranties, or ISP service interruptions. 
 By running this script, you accept all responsibility for your own equipment. 
-If you aren't comfortable with that, don't run the code.
+If you aren't comfortable with that, don't run the code. 
 
 
 
